@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshith Ashok
-- 👀 I’m interested in React JS, Flutter and Python
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in Web-dev, Flutter and Python
+- 🌱 I’m currently learning Vue Js
 - ✨ https://www.youtube.com/channel/UCZo-7-L3vVSLnQQhwZZi0Lg
 
 <!---
