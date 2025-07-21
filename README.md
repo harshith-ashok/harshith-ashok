@@ -2,6 +2,8 @@
 
 Full-stack developer and systems programmer with experience in building web, embedded, and shell-based tools.
 
+![](https://komarev.com/ghpvc/?username=harshith-ashok)
+
 ## Skills
 
 **Languages & Frameworks**  
