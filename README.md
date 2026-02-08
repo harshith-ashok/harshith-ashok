@@ -52,12 +52,12 @@ directly into production workflows.
 ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=for-the-badge&logo=bootstrap)
+![GSAP](https://img.shields.io/badge/GSAP-0F172A?style=for-the-badge&logo=gsap)
 
 ![Vue](https://img.shields.io/badge/Vue.js-020617?style=for-the-badge&logo=vue.js)
 ![Svelte](https://img.shields.io/badge/Svelte-020617?style=for-the-badge&logo=svelte)
 ![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-020617?style=for-the-badge&logo=angular)
-![Quasar](https://img.shields.io/badge/Quasar-020617?style=for-the-badge&logo=quasar)
 
 ---
 
