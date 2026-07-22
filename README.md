@@ -7,6 +7,8 @@
 
 </div>
 
+![Shooter Game](game.gif)
+
 <br/>
 
 ```bash
