@@ -15,24 +15,11 @@
 ┌──(harshithλearth)-[~/systems]
 └─$ cat about_me.txt
 
-B.Tech CSE @ SRM IST ('24-'28) | Building toward SWE @ Google, Summer '27
-Ex-Intern: LyncSpace Software Services | IFF (Intl. Flavors & Fragrances)
-Currently shipping: TASKFLOW -- a Deno-native desktop task manager
+B.Tech CSE @ SRM IST ('24-'28)
+Ex-Intern: IFF (Intl. Flavors & Fragrances) | LyncSpace Software Services
 
 Focus: LLM-grounded systems, RAG pipelines, embedded automation,
         terminal-first tooling. Zero patience for hallucinated JSON.
-```
-
-<br/>
-
-```bash
-┌──(harshithλearth)-[~/systems]
-└─$ ps -ef --status current_process
-
-TASKFLOW        Deno 2.9 desktop app · Svelte · SQLite · GSAP · Tailwind
-RAG-Insurance    Hybrid retrieval: BM25 + FAISS + Cross-Encoder rerank
-ASWKI Proposal   Programmatic docx generation for a govt. submission
-GH-Dash          FastAPI + ESP32 + SSD1306 -- my commits, on a physical screen
 ```
 
 <br/>
@@ -58,24 +45,81 @@ GH-Dash          FastAPI + ESP32 + SSD1306 -- my commits, on a physical screen
 ┌──(harshithλearth)-[~/systems]
 └─$ cat stack_trace.log
 ```
+### Tech Stack
 
 <div align="center">
 
-<b>Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,bash&theme=dark" />
+### Tech Stack
 
-<b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vue,svelte,react,angular&theme=dark" />
+<table width="100%">
+<tr>
+<td width="20%"><b>Languages</b></td>
+<td width="80%">
 
-<b>Backend and Systems</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,django,fastapi,postgres,docker&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<b>Embedded and Hardware</b><br/>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /> &nbsp;<code>ESP32</code> &nbsp;<code>Jetson Nano</code>
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
 
-<b>Linux and Tooling</b><br/>
-<img src="https://skillicons.dev/icons?i=arch,debian,gentoo,vscode,pycharm,git,github&theme=dark" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td><b>Backend and Systems</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Embedded and Hardware</b></td>
+<td>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Linux and Tooling</b></td>
+<td>
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
