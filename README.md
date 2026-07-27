@@ -45,7 +45,6 @@ Focus: LLM-grounded systems, RAG pipelines, embedded automation,
 ┌──(harshithλearth)-[~/systems]
 └─$ cat stack_trace.log
 ```
-### Tech Stack
 
 <div align="center">
 
