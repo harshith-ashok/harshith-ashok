@@ -150,4 +150,5 @@ what_i_build/
 
 <div align="center">
 <sub>boring, predictable systems are usually the most reliable ones.</sub>
+<sub>lowkey cheesing the contributions by having my obsidian vault sync ;)</sub>
 </div>
