@@ -11,11 +11,6 @@
 
 <br/>
 
-```
-Microsoft Applied Skills — AI Workflow Automation
-```
-View my credential: [Streamline Business Workflows with AI Chat](https://learn.microsoft.com/api/credentials/share/harshith-ashok/4AABEDB870CCB3FB?sharingId=CDA9CF0522E2815E&wt.mc_id=studentamb_638525)
-
 ```bash
 ┌──(harshithλearth)-[~/systems]
 └─$ cat about_me.txt
