@@ -4,7 +4,7 @@ CS undergrad in Chennai, India. Currently a Research Intern at the Madras Instit
 
 ## 🔭 Currently working on
 
-### 🔐 [secretscan](https://github.com/harshith-ashok/secretscan)
+### 🔐 [secretscan](https://github.com/harshith-ashok/secretscan) ![Part of XERJ Corpus Hub](https://hub.xerj.org/contributors/harshith-ashok/badge.svg)
 
 A small, dependency-free Python CLI that checks whether a leaked secret is really gone from a repo. Deleting a key in a later commit doesn't remove it from Git history, and your working tree can be clean while the history still leaks.
 
